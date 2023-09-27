@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Dimensions -->
+    <dimen name="spacing_half">4dp</dimen>
+    <dimen name="spacing_single">8dp</dimen>
+    <dimen name="spacing_single_half">12dp</dimen>
+    <dimen name="spacing_double">16dp</dimen>
+    <dimen name="spacing_double_half">20dp</dimen>
+    <dimen name="spacing_triple">24dp</dimen>
+    <dimen name="spacing_quadruple">32dp</dimen>
+    <dimen name="spacing_quintuple">40dp</dimen>
+    <dimen name="spacing_sextuple">48dp</dimen>
+    <dimen name="spacing_septuple">64dp</dimen>
+    <dimen name="spacing_octuple">80dp</dimen>
+    
+    <!-- Border -->
+    <dimen name="border_one">1dp</dimen>
+    
+</resources>

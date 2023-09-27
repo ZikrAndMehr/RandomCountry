@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">Random Country</string>
+    <string name="enter_number">Please enter a number between 5 and 20.</string>
+    <string name="number">Number</string>
+    <string name="fetch_data">Fetch Data</string>
+    <string name="number_range_error">Enter number in the range of 5 to 20!</string>
+    <string name="country">Country</string>
+    <string name="error_fetching_data_title">Error fetching data!</string>
+    <string name="error_fetching_data_message">error</string>
+    <string name="cancel">Cancel</string>
+    <string name="retry">Retry</string>
+
+    <string name="countries_information">Countries information</string>
+    <string name="countries_information_null">%s country information not found!</string>
+    <string name="country_information">Country information</string>
+    <string name="flag">Flag</string>
+    <string name="name">Name</string>
+    <string name="capital">Capital:</string>
+    <string name="population">Population:</string>
+    <string name="languages">Languages:</string>
+    <string name="languages_value">iso639_1: %s\niso639_2: %s\nname: %s\nnative name: %s</string>
+
+
+</resources>
