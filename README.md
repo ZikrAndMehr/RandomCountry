@@ -6,12 +6,16 @@ RandomCountry is an Android application developed using Jetpack Compose, a moder
 ## RandomCountries
 
 This screen leverages the [Random Data API](https://random-data-api.com/) to retrieve random address information for countries. Users have the option to input a number between 5 and 20, upon which they will be presented with a selection of random countries.
-![ ](./images/random_countries_screen.png)
+<div align="start">
+  <img src="images/random_countries_screen.png" alt="Random Countries Screen" width="30%">
+</div>
 
 ## RandomCountriesInfo
 
 The RandomCountriesInfo screen harnesses the power of the [Rest Countries API](https://restcountries.com/) to deliver comprehensive information about countries. In addition to textual data, this screen integrates [Coil](https://github.com/coil-kt/coil), a robust image loading library, to seamlessly display the flags of the respective countries. This enhancement contributes to an enriched visual experience for users.
-![ ](./images/random_countries_screen.png)
+<div align="start">
+  <img src="images/random_countries_info_screen.png" alt="Random Countries Screen" width="30%">
+</div>
 
 ## Technologies Used
 
